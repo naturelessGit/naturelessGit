@@ -1,7 +1,7 @@
 
 # Hi, I'm Aronas! 👋
 
-### I am a web developer, who loves to make websites.
+### I am a web developer and terminal user, who loves to make websites, and also use the terminal.
 
 
 ## 🚀 About Me
