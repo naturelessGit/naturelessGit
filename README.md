@@ -10,11 +10,11 @@ My projects can be viewed from my portfolio.
 
 
 ## 🛠 Skills
-Web dev skills: HTML, CSS, on my way to learn JavaScript
+Web dev skills: HTML, CSS, Javascript, and maybe soon the npm package manager
 
 Terminal Skills: Batch, Linux
 
-Back-end skills: On my way to learn python
+Back-end skills: Nope not yet Aaron, were not learning python
 
 
 ## 🔗 Links
