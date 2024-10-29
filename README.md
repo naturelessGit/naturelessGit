@@ -18,5 +18,6 @@ Back-end skills: Nope not yet Aaron, were not learning python
 
 
 ## 🔗 Links
-[portfolio (work in progress)](https://github.com)
+[portfolio (work in progress)](https://github.com) \
+Its never going to be finished.
 
