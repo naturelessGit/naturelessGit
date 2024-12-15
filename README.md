@@ -18,6 +18,8 @@ Back-end skills: Nope not yet Aaron, were not learning python
 
 
 ## 🔗 Links
-[portfolio (work in progress)](https://github.com) \
-Its never going to be finished.
+[portfolio](https://aronasfino.netlify.app)
+
+## Top langs stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronasGITHUBa&layout=compact)
 
