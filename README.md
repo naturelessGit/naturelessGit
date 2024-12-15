@@ -21,5 +21,5 @@ Back-end skills: Nope not yet Aaron, were not learning python
 [portfolio](https://aronasfino.netlify.app)
 
 ## Top langs stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronasGITHUBa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronasGITHUB&layout=compact)
 
