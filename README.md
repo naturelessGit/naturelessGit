@@ -14,6 +14,6 @@ Back-end skills: learning Python
 ## 🔗 Links
 [portfolio](https://aronasfino.netlify.app)
 
-## Top langs stats
+## 📊 Top langs stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AronasGITHUB&layout=compact)
 
