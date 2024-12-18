@@ -1,13 +1,7 @@
 
 # Hi, I'm Aronas! 👋
 
-### I am a web developer and terminal user, who loves to make websites, and also use the terminal.
-
-
-## 🚀 About Me
-I'm a web dev that makes website projects, and also a terminal user. 
-My projects can be viewed from my portfolio.
-
+### I am a terminal user and web developer.
 
 ## 🛠 Skills
 Web dev skills: HTML, CSS, Javascript
