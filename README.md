@@ -9,5 +9,5 @@ A craft based programmer with the love for low level.
 Still deciding..
 
 ## 📊 Top langs stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naturelessGitB&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naturelessGit&layout=compact)
 
